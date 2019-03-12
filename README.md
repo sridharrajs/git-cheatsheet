@@ -27,3 +27,11 @@
 |---------|--------------
 | git log -\<limit\> | No of logs
 | git log --oneline | show logs in single line
+
+
+## Remote
+
+| Command | Description
+|---------|--------------
+|git remote add \<shortname\> \<url\> | To add a new remote Git repository
+|git remote -v | To shows you the URL that Git has stored for the shortname to be expanded to 
