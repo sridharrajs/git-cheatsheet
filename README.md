@@ -36,6 +36,9 @@
 |git remote add \<shortname\> \<url\> | To add a new remote Git repository
 |git remote -v | To shows you the URL that Git has stored for the shortname to be expanded to 
 
+## Videos
+
+[![Webcast • The Basics of Git and GitHu](https://img.youtube.com/vi/U8GBXvdmHT4/maxresdefault.jpg)](https://youtu.be/U8GBXvdmHT4)
 
 ## References
 
