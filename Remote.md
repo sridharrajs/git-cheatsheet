@@ -2,7 +2,7 @@
 
 ## Config
 
-| Command | Description| Example|
+| Command | Description | Example |
 |---------|--------------|------|
 |git remote add \<shortname\> \<url\> | To add a new remote Git repository | git remote add github2 git@github.com:sridharrajs/git-cheatsheet.git|
 |git remote -v | To shows you the URL that Git has stored for the shortname to be expanded to |
@@ -15,4 +15,4 @@ First add a remote repo to the list of sources
 
 Then checkout 
 
-    git checkout -b <remote>/branch    
+    git checkout -t <remote>/branch    
